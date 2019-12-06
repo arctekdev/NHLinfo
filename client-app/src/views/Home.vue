@@ -15,3 +15,9 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+  html,body{
+    $bg: #eee;
+    background:$bg
+  }
+</style>
